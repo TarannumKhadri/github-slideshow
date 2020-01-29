@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+what ifwe were tonot see the pencil icon and yet edit it 
 Use the left arrow to go back!
